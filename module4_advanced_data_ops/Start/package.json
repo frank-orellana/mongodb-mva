@@ -1,6 +1,6 @@
 {
   "name": "mongodb-mva-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "repository": {
     "type": "git",
@@ -11,6 +11,6 @@
   },
   "homepage": "https://github.com/sedouard/mongodb-mva",
   "dependencies": {
-    "mongodb": "^1.4.26"
+    "mongodb": "^2.2.12"
   }
 }
